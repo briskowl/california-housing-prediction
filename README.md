@@ -21,7 +21,6 @@ This project focuses on predicting housing prices in California using both **Sim
 |---------------|-------------|
 | `housing.csv` | Original California housing dataset (with `ocean_proximity`) |
 | `housing_analysis.ipynb` | Complete Jupyter notebook with all steps |
-| `requirements.txt` | Python dependencies |
 | `README.md` | You're reading it! |
 
 ---
